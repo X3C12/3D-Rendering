@@ -4,7 +4,7 @@ Cube 3D Rendering Project
 Overview
 --------
 
-This project is a simple 3D cube rendering application using HTML, CSS, and JavaScript. The project consists of two files: `index.html` and `main.js`.
+This project is a simple 3D cube rendering application using HTML, CSS, and JavaScript. The project consists of two files: `index.html` and `main.js`. ONLY WORKS IN CHROME
 
 Getting Started
 ---------------
